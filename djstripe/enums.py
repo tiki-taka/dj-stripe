@@ -514,6 +514,7 @@ class PaymentMethodType(Enum):
     oxxo = _("OXXO")
     p24 = _("Przelewy24")
     paynow = _("PayNow")
+    paypal = _("PayPal")
     pix = _("Pix")
     promptpay = _("PromptPay")
     sepa_debit = _("SEPA Direct Debit")
